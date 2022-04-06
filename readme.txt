@@ -1,6 +1,7 @@
+ADMIN PANE V1.2
+
 Design elements that are still incomplete: 
 
-- Delivery tab category (overall design)
 - hover down function (order tab)
 
 note: pls view the design with vscode live server. 
